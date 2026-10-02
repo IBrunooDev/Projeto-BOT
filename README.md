@@ -2,6 +2,10 @@
 
 > Projeto de estudo — v1.1.7
 
+<div align="center" border="50%">
+  <img width="864" height="573" alt="image" src="https://github.com/user-attachments/assets/aa2cc2a4-80a6-4c7a-a9be-a83502148eb0" />
+</div>
+
 O **LGC Win** é um bot para Discord criado para estudar, na prática, desenvolvimento de aplicações com **Node.js, TypeScript, Discord.js e Supabase**.
 
 Este projeto foi desenvolvido **com auxílio de Inteligência Artificial (IA)** como parte de um projeto de estudo/conclusão. A IA foi utilizada como apoio durante o desenvolvimento, organização, revisão e implementação de funcionalidades.
